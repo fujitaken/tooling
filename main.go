@@ -7,7 +7,7 @@ import (
 
 func main() {
 	var name string
-	name = "うんち　ボラ"
+	name = "ken"
 
 	fmt.Println("Hello ", name)
 }
